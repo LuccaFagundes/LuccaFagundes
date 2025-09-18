@@ -1,3 +1,5 @@
-## Ga-hoy, hark all those who enter here looking for actually good code.
-you won't find anything of value but the crazy ramblings and broken down attempts of a wannabe developer
+## Howdy hey, Lucca Fagundes talking to you through these pixelated dimesions
+
+I've been studying up and trying to learn the code that to me looked like runic magic.
+
 
