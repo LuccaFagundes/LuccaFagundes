@@ -1,7 +1,6 @@
 ## Howdy hey, Lucca Fagundes talking to you through these pixelated dimesions
 
 <p>I've been studying up and trying to learn the code that to me looked like runic magic.</p>
-<p>I think, therefore, I am.</p>
+<p>I thought, therefore, I was.</p>
 
 
-<a href="https://www.youtube.com/watch?v=3BFTio5296w">.</a>
